@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cschip8", "cschip8\cschip8.csproj", "{E54D8B4A-E28B-4C65-890A-6CB8460AB75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cschip8.console", "cschip8.console\cschip8.console.csproj", "{56AD8800-AE73-42F9-8AA1-EC59DCE65C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cschip8.windows", "cschip8.windows\cschip8.windows.csproj", "{262EF38D-573F-4A12-ACDC-4746D3BA6FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54D8B4A-E28B-4C65-890A-6CB8460AB75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54D8B4A-E28B-4C65-890A-6CB8460AB75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54D8B4A-E28B-4C65-890A-6CB8460AB75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54D8B4A-E28B-4C65-890A-6CB8460AB75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AD8800-AE73-42F9-8AA1-EC59DCE65C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AD8800-AE73-42F9-8AA1-EC59DCE65C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AD8800-AE73-42F9-8AA1-EC59DCE65C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AD8800-AE73-42F9-8AA1-EC59DCE65C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262EF38D-573F-4A12-ACDC-4746D3BA6FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262EF38D-573F-4A12-ACDC-4746D3BA6FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262EF38D-573F-4A12-ACDC-4746D3BA6FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262EF38D-573F-4A12-ACDC-4746D3BA6FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
